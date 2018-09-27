@@ -2706,4 +2706,4 @@ msg.channel.send(`**Bot InviteURL : ** https://discordapp.com/oauth2/authorize?c
 
 
 
-client.login('NDcwMjQyOTE0MDIzMjQzNzg2.Dmd2Ug.oggItf9-UjwBgDZhbm-Rvx68k6w');
+client.login(process.env.BOT_TOKEN)
